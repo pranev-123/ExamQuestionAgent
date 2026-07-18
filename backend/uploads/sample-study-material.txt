@@ -1,0 +1,6 @@
+This sample material covers engineering concepts including calculus, circuits, algorithms, and mechanics.
+
+Engineering Mathematics: Solve derivatives, integrals, and differential equations.
+Electrical Engineering: Analyze a simple RC circuit, compute current and voltage drops.
+Computer Science: Explain greedy algorithms, binary search, and data structures.
+Mechanical Engineering: Describe stress, strain, and forces in a beam.
